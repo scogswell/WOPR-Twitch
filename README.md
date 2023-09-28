@@ -19,7 +19,8 @@ timer for your live twitch streams.
 
 Rainbow LEDs:
 
-[](https://github.com/scogswell/WOPR-Twitch/assets/3185255/574bfa10-9391-4c29-9a3a-dd6675d51350)
+[](https://github.com/scogswell/WOPR-Twitch/assets/3185255/1b45761e-1547-4342-aed2-bb4dd1c495e4)
+
 
 Break countdown timer:
 
@@ -28,7 +29,7 @@ Break countdown timer:
 
 Break reminder: 
 
-[](https://github.com/scogswell/WOPR-Twitch/assets/3185255/1b45761e-1547-4342-aed2-bb4dd1c495e4)
+[](https://github.com/scogswell/WOPR-Twitch/assets/3185255/574bfa10-9391-4c29-9a3a-dd6675d51350)
 
 
 Signing off: 
