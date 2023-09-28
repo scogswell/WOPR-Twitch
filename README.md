@@ -13,7 +13,7 @@ timer for your live twitch streams.
 - Beeps and boops
 
 "Going live" codebreak:
-https://github.com/scogswell/WOPR-Twitch/assets/3185255/5c4dde66-d63f-4eab-8003-f38ef5e25c9c
+[https://github.com/scogswell/WOPR-Twitch/assets/3185255/5c4dde66-d63f-4eab-8003-f38ef5e25c9c]
 
 
 Rainbow LEDs:
