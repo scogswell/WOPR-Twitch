@@ -12,20 +12,25 @@ timer for your live twitch streams.
 - Mesmerizing rainbow leds when live 
 - Beeps and boops
 
+"Going live" codebreak:
+https://github.com/scogswell/WOPR-Twitch/assets/3185255/5c4dde66-d63f-4eab-8003-f38ef5e25c9c
 
-[!["Going live" codebreak:]()](images/wopr1.mp4)
 
 Rainbow LEDs:
-[![]](images/wopr2.mp4 "")
+https://github.com/scogswell/WOPR-Twitch/assets/3185255/574bfa10-9391-4c29-9a3a-dd6675d51350
+
 
 Break countdown timer:
-[![]](images/wopr3.mp4 "")
+https://github.com/scogswell/WOPR-Twitch/assets/3185255/9f1669fe-cbee-4f50-bde1-d91f9b0282c4
+
 
 Break reminder: 
-[![]](images/wopr4.mp4 "")
+https://github.com/scogswell/WOPR-Twitch/assets/3185255/1b45761e-1547-4342-aed2-bb4dd1c495e4
+
 
 Signing off: 
-[![]](images/wopr5.mp4 "")
+https://github.com/scogswell/WOPR-Twitch/assets/3185255/bfec43b9-c08d-46ea-a9a9-4b32fc0d2e89
+
 
 By default it will connect to Wifi, get a twitch authorization token and start querying the status of the account in `streamer.py`
 for live status.  It checks on a fixed interval that you can adjust so as not to hammer the twitch API.  
