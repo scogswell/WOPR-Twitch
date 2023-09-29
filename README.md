@@ -1,6 +1,6 @@
 # The WOPR, but twitch, in Circuitpython
 
-This is a circuitpython program that lets you use the UM Wopr display kit as a 
+This is a circuitpython program that lets you use the UM WOPR display kit (https://unexpectedmaker.com/shop.html#!/) as a 
 timer for your live twitch streams.
 
 "Features"
