@@ -14,8 +14,7 @@ timer for your live twitch streams.
 
 "Going live" codebreak:
 
-[](https://github.com/scogswell/WOPR-Twitch/assets/3185255/bfec43b9-c08d-46ea-a9a9-4b32fc0d2e89)
-
+[](https://github.com/scogswell/WOPR-Twitch/assets/3185255/9049ad2a-bcc0-45a6-a86a-dbfc85b6a501)
 
 Rainbow LEDs:
 
